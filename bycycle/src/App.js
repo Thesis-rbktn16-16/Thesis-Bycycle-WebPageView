@@ -121,14 +121,14 @@ function App() {
                     class="text-yellow-600 hover:text-yellow-700 flex-auto"
                   >
                     <img src={icon} class="w-32 ml-12" />
-                    <img src={android} class="w-32 ml-12 rounded" />
+                    <img src={android} class="w-32 ml-12 rounded-md" />
                   </a>
                   <a
                     href="https://tailwindcss.com/docs"
                     class="text-yellow-600 hover:text-yellow-700 flex-auto"
                   >
                     <img src={icon} class="w-32 ml-12" />
-                    <img src={ios} class="w-32 ml-12 rounded" />
+                    <img src={ios} class="w-32 ml-12 rounded-md" />
                   </a>
                 </div>
               </div>
